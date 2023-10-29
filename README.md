@@ -5,11 +5,7 @@
 ### 总览
 
 ```mermaid
-%%{
-	init: {
-		"theme": "forest"
-	}
-}%%
+
 gantt
 title 2023年学习进度
 dateFormat YYYY-MM-DD
